@@ -1,7 +1,7 @@
 # Hi there! 👋
 I'm Vignesh R, a Software Developer specializing in Node.js, JS & Laravel.
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/vignesh-r-4b593a216)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/vigneshr1975)
 ## Skills:
 - **Languages:** JavaScript, PHP, Python
 - **Frameworks:** Laravel, Node.js
